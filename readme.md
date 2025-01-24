@@ -1,4 +1,5 @@
-<img src='img\Avataar.jpg' alt='cover image' width="100" height="100" />
+<img align='right' src='IMG_20200816_101045_050-removebg-preview.png' alt='cover image' width="100" height="100" />
+<br>
 <h1 align="center">Hi 👋, I'm Siddharth Kanojia</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
