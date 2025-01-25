@@ -3,7 +3,12 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;;" /> -->
 <div class="header">
   <img align='right'src="IMG_20200816_101045_050-removebg-preview.png" alt="logo" height='100' width='100'/>
-  <h1>Hi 👋, I'm Siddharth Kanojia</h1>
+  <h1>Hi 👋, I'm Siddharth Kanojia</p>
+  <style>h1{
+            color:White;
+            font-size:50px;
+    }
+        </style>
 </div>
 
 <h3 align="center">A Passionate Front-End developer</h3>
