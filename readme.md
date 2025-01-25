@@ -1,6 +1,6 @@
 <img align='right' src='IMG_20200816_101045_050-removebg-preview.png' alt='cover image' height='200' width='150'/>
 <br>
-<img align='centre' src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaste+🙏;Salam Walekum+🤲;+I'm+Siddharth+Kanojia!;;" />
+<img align='centre' src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaste+🙏;+I'm+Siddharth+Kanojia!;;"/>
 
 <!-- <h1 align='left'>Hi 👋, I'm Siddharth Kanojia</h1> -->
 <h3>I'm a Software Enthusiast and aspiring web developer. I started my journey with Java, diving deep into Data Structures and Algorithms, and I actively solve problems on LeetCode to sharpen my skills. Recently, I've expanded my expertise into web development, learning HTML, CSS, and JavaScript to create dynamic, user-friendly websites. I’m passionate about building solutions that are both functional and aesthetically pleasing.</h3> 
