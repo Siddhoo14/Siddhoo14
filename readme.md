@@ -1,4 +1,4 @@
-<img align='right' src='IMG_20200816_101045_050-removebg-preview.png' alt='cover image' height='200' width='200'/>
+<img align='right' src='IMG_20200816_101045_050-removebg-preview.png' alt='cover image' height='200' width='150'/>
 <br>
 <img align='centre' src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddharth+Kanojia;;" />
 
