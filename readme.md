@@ -1,6 +1,6 @@
 <img align='right' src='IMG_20200816_101045_050-removebg-preview.png' alt='cover image' height='100' width='100'/>
 <br>
-<img align='centre' src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddharth Kanojia;;" />
+<img align='centre' src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siddharth+Kanojia;;" />
 
 <!-- <h1 align='left'>Hi 👋, I'm Siddharth Kanojia</h1> -->
 <h3 align="center">A Passionate Front-End developer</h3>
