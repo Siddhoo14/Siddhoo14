@@ -7,7 +7,7 @@
 
 ## Learn more About Me 💫
 
-<a href="(https://www.linkedin.com/in/siddharth-kanojia/"><img align='right' src='fbc6f31bd3b84159470b973aca7e0f97.gif' alt='coding gif' width='450px'/></a>
+<a href="https://www.linkedin.com/in/siddharth-kanojia/"><img align='right' src='fbc6f31bd3b84159470b973aca7e0f97.gif' alt='coding gif' width='450px'/></a>
 
 I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br><!--👨‍💻 All of my projects are available at [Portfolio](https://portfolio-eight-smoky-73.vercel.app/)-->💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on [LinkedIn](https://www.linkedin.com/in/siddharth-kanojia/) here or shoot me an email at siddharthkanojiya1408@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M-sU21Ta61oUN5D_dp7ee6p4kcqo8MhE/view?usp=drive_link)<br><br>⚡ Fun fact 
 
